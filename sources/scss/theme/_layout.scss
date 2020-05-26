@@ -8,7 +8,7 @@
 .navbar,
 .main-content,
 .main-footer {
-  transition: all .5s;
+  transition: all .3s;
 }
 
 body.sidebar-gone {
@@ -288,7 +288,7 @@ body.layout-3 {
             bottom: 0;
             height: 2px;
             background-color: color(primary);
-            transition: all .5s;
+            transition: all .3s;
           }
           span {
             line-height: 74px;

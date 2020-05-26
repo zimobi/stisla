@@ -492,8 +492,8 @@ tr:first-child > td > .fc-day-grid-event {
     margin-right: 7px;
     margin-bottom: 7px;
     cursor: pointer;
-    -webkit-transition: all .5s;
-    transition: all .5s;
+    -webkit-transition: all .3s;
+    transition: all .3s;
     position: relative; }
     .gallery .gallery-item:hover {
       opacity: .8; }
@@ -1011,7 +1011,7 @@ tr:first-child > td > .fc-day-grid-event {
   background-color: #ffa426; }
 
 .toast.toast-success {
-  background-color: #63ed7a; }
+  background-color: #20C997; }
 
 .toast.toast-info {
   background-color: #fff; }
@@ -1253,8 +1253,8 @@ tr:first-child > td > .fc-day-grid-event {
       padding: 25px 15px;
       border-bottom: 1px solid #f9f9f9;
       cursor: pointer;
-      -webkit-transition: all .5s;
-      transition: all .5s; }
+      -webkit-transition: all .3s;
+      transition: all .3s; }
       .tickets .ticket-items .ticket-item:hover {
         background-color: rgba(63, 82, 227, 0.03); }
         .tickets .ticket-items .ticket-item:hover .ticket-title {
@@ -1536,7 +1536,7 @@ tr:first-child > td > .fc-day-grid-event {
         line-height: 20px;
         border-radius: 50%;
         text-align: center;
-        background-color: #63ed7a;
+        background-color: #20C997;
         color: #fff;
         margin-right: 10px; }
         .pricing .pricing-details .pricing-item .pricing-item-icon i {
@@ -1662,7 +1662,7 @@ tr:first-child > td > .fc-day-grid-event {
     height: .5em;
     width: .5em; }
     .avatar .avatar-presence.online {
-      background: #63ed7a; }
+      background: #20C997; }
     .avatar .avatar-presence.busy {
       background: #fc544b; }
     .avatar .avatar-presence.away {
@@ -1721,10 +1721,10 @@ tr:first-child > td > .fc-day-grid-event {
         background-color: #60C8D0;
         color: #fff; }
     .wizard-steps .wizard-step.wizard-step-success {
-      background-color: #63ed7a;
+      background-color: #20C997;
       color: #fff; }
       .wizard-steps .wizard-step.wizard-step-success:before {
-        background-color: #63ed7a;
+        background-color: #20C997;
         color: #fff; }
     .wizard-steps .wizard-step.wizard-step-danger {
       background-color: #fc544b;
